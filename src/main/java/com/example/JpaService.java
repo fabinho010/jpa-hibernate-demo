@@ -18,7 +18,10 @@ public class JpaService {
     }
 
     public void shutDown(){
-        entityManagerFactory.close();
+        if (entityManagerFactory != null){
+            entityManagerFactory.close();
+        }
+
     }
 
     public EntityManagerFactory getEntityManagerFactory() {
