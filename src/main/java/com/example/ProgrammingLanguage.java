@@ -1,18 +1,19 @@
 package com.example;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 import java.util.Objects;
 
 @Entity
+@Table(name = "programming_language")
 public class ProgrammingLanguage {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "pl_id")
     private Integer id;
+    @Column(name = "pl_name")
     private String name;
+    @Column(name = "pl_rating")
     private Integer rating;
 
     // CONSTRUCTORES

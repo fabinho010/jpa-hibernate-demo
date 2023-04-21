@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50815d30-38fa-4599-8d27-e4ba1019fd62" name="Changes" comment="Proceso">
+    <list default="true" id="50815d30-38fa-4599-8d27-e4ba1019fd62" name="Changes" comment="AJUSTES">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/136cc233-a9ce-43a5-846d-71ba779425f6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/136cc233-a9ce-43a5-846d-71ba779425f6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/JpaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/JpaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ProgrammingLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ProgrammingLanguage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/FP/BaseDatos/JPA/jpa-hibernate-demo/src/main/java",
+    "last_opened_file_path": "D:/FP/BaseDatos/Jdbc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682063936655</updated>
-      <workItem from="1682063938217" duration="7394000" />
+      <workItem from="1682063938217" duration="7564000" />
+      <workItem from="1682085745874" duration="9149000" />
     </task>
     <task id="LOCAL-00001" summary="Baking">
       <created>1682067457448</created>
@@ -90,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682069397723</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AJUSTES">
+      <created>1682072129154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682072129154</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Baking" />
     <MESSAGE value="Proceso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proceso" />
+    <MESSAGE value="AJUSTES" />
+    <option name="LAST_COMMIT_MESSAGE" value="AJUSTES" />
   </component>
 </project>
